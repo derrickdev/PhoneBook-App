@@ -1,0 +1,15 @@
+First name	: Harry
+Last name	: Potter
+MOBILE		: +374 55 123456
+OFFICE		: +374 10 875803
+HOME		: +374 10 689651
+---
+First name	: Sheldon
+Last name	: Cooper
+MOBILE		: +374 77 975892
+OFFICE		: +374 11 573203
+OFFICE		: +374 11 573204
+---
+First name	: Jon
+Last name	: Snow
+MOBILE		: +374 91 543216
